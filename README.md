@@ -1,3 +1,3 @@
-# Olá, Mundo
- Meu primeiro repositório.
-Esta linha eu alterei direto no site...!
+Projeto Site de uma barbearia (Curso da Alura)
+Meu primeiro repositório no Github.
+
