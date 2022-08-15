@@ -1,2 +1,2 @@
-Projeto Site barbearia (Curso da Alura)
+ Site barbearia (Curso da Alura)
 
