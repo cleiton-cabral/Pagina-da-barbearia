@@ -1,3 +1,3 @@
-Projeto Site de uma barbearia (Curso da Alura)
+Projeto Site barbearia (Curso da Alura)
 Meu primeiro repositório no Github.
 
